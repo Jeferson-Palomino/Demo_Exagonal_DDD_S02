@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/ms_certificaciones
+    username: postgres
+    password: admin22
+
+server:
+  port: 8081
